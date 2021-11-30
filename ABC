@@ -1,0 +1,11 @@
+#EXTINF:-1 ABC TV Plus
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=813&avod=1&coppa=1&is_lat=1&custom_targeting=web&custom_4=internal&h=720&w=1280&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&u=https://github.com/Hubbyx/AU-TV-2/raw/main/index.m3u8
+
+#EXTINF:-1 ABC ME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=813&avod=1&coppa=1&is_lat=1&custom_targeting=web&custom_4=internal&h=720&w=1280&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&u=https://github.com/Hubbyx/AU-TV-2/raw/main/ABC%20ME%20.m3u8
+
+#EXTINF:-1 ABC Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=813&avod=1&coppa=1&is_lat=1&custom_targeting=web&custom_4=internal&h=720&w=1280&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&u=https://github.com/Hubbyx/AU-TV-2/raw/main/ABC%20Kids.m3u8
+
+#EXTINF:-1 ABC TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=813&avod=1&coppa=1&is_lat=1&custom_targeting=web&custom_4=internal&h=720&w=1280&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&u=https://github.com/Hubbyx/AU-TV-2/raw/main/ABC.m3u8
