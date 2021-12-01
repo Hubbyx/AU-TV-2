@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1910625,AVERAGE-BANDWIDTH=1826551,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles"
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638405823~acl=%2f*~data=hdntl~hmac=7387c0a93aee39e9c0f86a56e073b3246f48826d4aafbcc8532966ff5489495b/index_31.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638415287~acl=%2f*~data=hdntl~hmac=44baaebca180adc3a07694ce328d128b24fa5f87384659f347b6eecd96c5f21d/index_31.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=994259,AVERAGE-BANDWIDTH=967459,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4D401E,mp4a.40.2",SUBTITLES="subtitles"
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638405823~acl=%2f*~data=hdntl~hmac=7387c0a93aee39e9c0f86a56e073b3246f48826d4aafbcc8532966ff5489495b/index_32.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638415287~acl=%2f*~data=hdntl~hmac=44baaebca180adc3a07694ce328d128b24fa5f87384659f347b6eecd96c5f21d/index_32.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=737290,AVERAGE-BANDWIDTH=726551,RESOLUTION=512x288,FRAME-RATE=25.000,CODECS="avc1.4D4015,mp4a.40.2",SUBTITLES="subtitles"
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638405823~acl=%2f*~data=hdntl~hmac=7387c0a93aee39e9c0f86a56e073b3246f48826d4aafbcc8532966ff5489495b/index_33.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638415287~acl=%2f*~data=hdntl~hmac=44baaebca180adc3a07694ce328d128b24fa5f87384659f347b6eecd96c5f21d/index_33.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3633106,AVERAGE-BANDWIDTH=3441386,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles"
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638395842~acl=%2f*~data=hdntl~hmac=ff8055c57f42fc725c8758b46a3469fd8afae9678f18b43754490122735f8826/index_34.m3u8
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="eng",URI="https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638405823~acl=%2f*~data=hdntl~hmac=7387c0a93aee39e9c0f86a56e073b3246f48826d4aafbcc8532966ff5489495b/index_7_0.m3u8"
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638415287~acl=%2f*~data=hdntl~hmac=44baaebca180adc3a07694ce328d128b24fa5f87384659f347b6eecd96c5f21d/index_34.m3u8
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="eng",URI="https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/hdntl=exp=1638415287~acl=%2f*~data=hdntl~hmac=44baaebca180adc3a07694ce328d128b24fa5f87384659f347b6eecd96c5f21d/index_7_0.m3u8"
